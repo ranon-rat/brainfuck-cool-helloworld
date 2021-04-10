@@ -7,7 +7,7 @@ Esto es un programa bastante simple que hice para imprimir
 | | | |  __/ | | (_) |  \ V  V / (_) | |  | | (_| |
 |_| |_|\___|_|_|\___/    \_/\_/ \___/|_|  |_|\___|
  no es tan complicado pero hay que pensar mucho
-
+jodete beef
 iniciamos la memoria
 
  celda 0

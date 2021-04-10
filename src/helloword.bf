@@ -9,7 +9,7 @@ Esto es un programa bastante simple que hice para imprimir
  no es tan complicado pero hay que pensar mucho
 
 iniciamos la memoria
-asdf
+
  celda 0
 la dejamos en ascii 8   
 ++++++++++

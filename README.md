@@ -1,4 +1,10 @@
 # brainfuck-cool-helloworld-
  I did it out of boredom
-
-<img src="https://media.discordapp.net/attachments/816016165478334526/830456464584998973/Captura_de_Pantalla_2021-04-10_a_las_9.54.38.png?width=1920&height=239">
+<img src="https://media.discordapp.net/attachments/820472030474272769/830474125251706910/Captura_de_Pantalla_2021-04-10_a_las_6.45.41.png?width=1920&height=168">
+<img src="https://media.discordapp.net/attachments/820472030474272769/830474164514062416/Captura_de_Pantalla_2021-04-10_a_las_7.00.32.png?width=1920&height=194">
+<img src="https://media.discordapp.net/attachments/820472030474272769/830474203345584128/Captura_de_Pantalla_2021-04-10_a_las_7.52.37.png">
+<img src="https://media.discordapp.net/attachments/820472030474272769/830474239504547853/Captura_de_Pantalla_2021-04-10_a_las_8.22.32.png?width=1920&height=192">
+<img src="https://media.discordapp.net/attachments/820472030474272769/830474273633468457/Captura_de_Pantalla_2021-04-10_a_las_8.40.16.png">
+<img src="https://media.discordapp.net/attachments/820472030474272769/830474298354303006/Captura_de_Pantalla_2021-04-10_a_las_9.31.50.png?width=1920&height=204">
+<img src="https://media.discordapp.net/attachments/820472030474272769/830474340713758750/Captura_de_Pantalla_2021-04-10_a_las_9.43.16.png">
+<img src="https://media.discordapp.net/attachments/820472030474272769/830474404428251196/Captura_de_Pantalla_2021-04-10_a_las_9.54.38.png?width=1920&height=239">
